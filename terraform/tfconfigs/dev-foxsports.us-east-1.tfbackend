@@ -1,0 +1,3 @@
+bucket = "foxsports-remote-state-dev-us-east-1"
+key    = "foxcorp/fox-mccms-v3-content-publisher/infra"
+region = "us-east-1"
